@@ -1,0 +1,5 @@
+cc_library(
+	name = "everything",
+	hdrs = ["minunit.h"],
+	visibility = ["//visibility:public"]
+)
